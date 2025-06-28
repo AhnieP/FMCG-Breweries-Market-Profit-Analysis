@@ -1,4 +1,4 @@
-# International-FMCG-Market-Profit-Analysis (SQL)
+# International-FMCG-Market-Profit-Analysis (SQL + Power BI)
 This project explores three years of FMCG sales data across West Africa using SQL and Power BI. It delivers insights on profit trends, top-performing brands, and regional consumer behavior in Anglophone and Francophone markets. The analysis answers 20+ key business questions and supports strategy with interactive dashboards.
 # 📊 International FMCG Market & Profit Analysis  
 **SQL + Power BI Data Analytics Project**
@@ -91,7 +91,7 @@ Three Power BI dashboards were created to visualize:
 
 ## 📂 Project Files  
 - [`SQL Script`](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)  
-- [`Dashboard Slides`](PAUL ANNA SQL VISULAIZATION DAP PROJECT.pptx](https://github.com/user-attachments/files/20964719/PAUL.ANNA.SQL.VISULAIZATION.DAP.PROJECT.pptx)
+- [`Dashboard Slides`](https://github.com/user-attachments/files/20964719/PAUL.ANNA.SQL.VISULAIZATION.DAP.PROJECT.pptx)
 
 
 
