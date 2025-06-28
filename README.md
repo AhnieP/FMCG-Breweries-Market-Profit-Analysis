@@ -66,7 +66,7 @@ The SQL scripts include all analysis logic required to answer the outlined busin
 - Month-by-month profitability trends
 
 *Script written using MySQL syntax.*  
-👉 [View full SQL script in this repo](https://github.com/AhnieP/SQL-Script-International-FMCG-Market-Profit-Analysis-/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)
+👉 [View full SQL script in this repo](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)
 
 ---
 
@@ -90,8 +90,8 @@ Three Power BI dashboards were created to visualize:
 ---
 
 ## 📂 Project Files  
-- [`SQL Script`](https://github.com/AhnieP/SQL-Script-International-FMCG-Market-Profit-Analysis-/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)  
-- [`Dashboard Slides`] [PAUL ANNA SQL VISULAIZATION DAP PROJECT.pptx](https://github.com/user-attachments/files/20964719/PAUL.ANNA.SQL.VISULAIZATION.DAP.PROJECT.pptx)
+- [`SQL Script`](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)  
+- [`Dashboard Slides`](PAUL ANNA SQL VISULAIZATION DAP PROJECT.pptx](https://github.com/user-attachments/files/20964719/PAUL.ANNA.SQL.VISULAIZATION.DAP.PROJECT.pptx)
 
 
 
