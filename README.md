@@ -101,8 +101,9 @@ The SQL scripts include all analysis logic required to answer the outlined busin
 - [`Dashboard Slides`](./PAUL%20ANNA%20SQL%20VISULAIZATION%20DAP%20PROJECT.pptx)  
 - [`Project Task Document`](./sql-assessment-project%20(3).pdf)
 
----
 
-## 📬 Feedback & Collaboration  
-Feel free to fork this repository, raise issues, or reach out for improvements or collaboration.
+
+
+[Uploading PAUL ANNA SQL DAP PROJECT SCRIPT.sql…]()
+
 
