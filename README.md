@@ -54,17 +54,7 @@ The dataset contains sales transaction records from multiple West African countr
 18. Budweiser 2019 regional consumption (for promo decisions)  
 19. Country with the highest overall beer consumption  
 20. Top Budweiser sales rep in Senegal  
-21. Highest Q4 profit in 2019 by country  
-
----
-
-## 📈 Power BI Dashboards  
-Three Power BI dashboards were created to visualize:  
-- **Territorial Profit Distribution**  
-- **Year-on-Year Brand Performance**  
-- **Regional and Monthly Consumption Trends**
-
-*Dashboards created and exported from Power BI Desktop.*
+21. Highest Q4 profit in 2019 by country 
 
 ---
 
@@ -80,6 +70,17 @@ The SQL scripts include all analysis logic required to answer the outlined busin
 
 ---
 
+## 📈 Power BI Dashboards  
+Three Power BI dashboards were created to visualize:  
+- **Territorial Profit Distribution**  
+- **Year-on-Year Brand Performance**  
+- **Regional and Monthly Consumption Trends**
+
+- ![Screenshot 2025-06-28 224009](https://github.com/user-attachments/assets/bc65a4f9-27d3-45be-974a-2e3eaedd086b)
+- ![Screenshot 2025-06-28 224023](https://github.com/user-attachments/assets/cb8a39e5-643a-480f-a32e-0619ed479f63)
+- ![Screenshot 2025-06-28 224037](https://github.com/user-attachments/assets/f3df7cf3-39c9-4592-8337-573f78e6df3a)
+
+
 ## ✅ Key Insights  
 - **Nigeria** consistently topped beer consumption and Budweiser demand.  
 - **Francophone countries** showed higher brand variety with increasing profitability.  
@@ -88,22 +89,10 @@ The SQL scripts include all analysis logic required to answer the outlined busin
 
 ---
 
-## 👤 Author  
-**Anna Paul**  
-*Data Analyst Intern*  
-- Power BI | SQL | Excel  
-- Specializing in FMCG and Health Data Analytics
-
----
-
 ## 📂 Project Files  
 - [`SQL Script`](./PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)  
-- [`Dashboard Slides`](./PAUL%20ANNA%20SQL%20VISULAIZATION%20DAP%20PROJECT.pptx)  
-- [`Project Task Document`](./sql-assessment-project%20(3).pdf)
+- [`Dashboard Slides`] [PAUL ANNA SQL VISULAIZATION DAP PROJECT.pptx](https://github.com/user-attachments/files/20964719/PAUL.ANNA.SQL.VISULAIZATION.DAP.PROJECT.pptx)
 
 
-
-
-[Uploading PAUL ANNA SQL DAP PROJECT SCRIPT.sql…]()
 
 
