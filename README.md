@@ -1,7 +1,7 @@
 # International-FMCG-Market-Profit-Analysis (SQL + Power BI)
 This project explores three years of FMCG sales data across West Africa using SQL and Power BI. It delivers insights on profit trends, top-performing brands, and regional consumer behavior in Anglophone and Francophone markets. The analysis answers 20+ key business questions and supports strategy with interactive dashboards.
 
-# 📊 International FMCG Market Profit Analysis
+# 📊 FMCG Market Profit Analysis
 
 **SQL + Power BI Data Analytics Project**
 
@@ -83,11 +83,29 @@ Three Power BI dashboards were created to visualize:
 - ![Screenshot 2025-06-28 224037](https://github.com/user-attachments/assets/f3df7cf3-39c9-4592-8337-573f78e6df3a)
 
 
-## ✅ Key Insights  
-- **Nigeria** consistently topped beer consumption and Budweiser demand.  
-- **Francophone countries** showed higher brand variety with increasing profitability.  
-- **Q4 2019** marked the highest profit quarter, with **Senegal** being a strong performer.  
-- **Budweiser** emerged as a key promo target in Nigeria based on regional consumption.
+- ## 📌 Key Insights Summary (2017–2019)
+
+1. The **total profit** of all breweries across all countries from 2017 to 2019 was **$106M**.
+2. **Francophone countries** generated more profit than Anglophone countries over the 3-year period.
+3. **Ghana** had the **highest profit in 2019**, totaling **$7.14M**.
+4. **2017** was the **most profitable year**, with **$39M** in total profit.
+5. The **least profitable month** over the 3 years was **April**, with **$8.6M**.
+6. The **minimum profit recorded** in **December 2018** was **$38.15K**.
+7. **Ghana** recorded the **highest Q4 2019 profit** with **$2.04M**.
+8. In **Senegal**, **Castle Lite** was the most profitable brand with **$7.012M**.
+9. **March** was the **best-performing month**, while **April** was the **least**, across all years.
+10. Top 3 brands in Francophone countries (2018–2019) were **Trophy**, **Eagle Lager**, and **Castle Lite**.
+11. The top 2 preferred brands in **Ghana** were **Castle Lite** and **Budweiser**.
+12. **Budweiser** showed **strong beer performance** in **Nigeria**, especially in the **South West** region.
+13. The favorite **malt brand** in Anglophone countries (2018–2019) was **Grand Malt**.
+14. **Budweiser** was the **best-selling brand in 2019**, earning over **$1M** in profit.
+15. **Beat Malt** was the favorite brand in **Nigeria’s South-South** region.
+16. **Beer consumption in Nigeria** (2017–2019) showed **Budweiser** led, followed by **Castle Lite**, **Eagle Lager**, **Hero**, and **Trophy**.
+17. **Budweiser consumption** across Nigerian regions was **fairly consistent** across all years.
+18. In **2019**, **Budweiser** had its strongest regional performance in the **South East**.
+19. **Beer consumption levels** were almost equal across all countries.
+20. The **top Budweiser sales rep** in **Senegal** was **Jones**, generating the highest profit.
+21. **Ghana** had the **highest Q4 profit** in 2019 among all countries.
 
 ---
 
