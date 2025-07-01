@@ -74,16 +74,13 @@ The SQL scripts include all analysis logic required to answer the outlined busin
 
 ## 📈 Power BI Dashboards  
 Three Power BI dashboards were created to visualize:  
-- **Territorial Profit Distribution**  
-- **Year-on-Year Brand Performance**  
-- **Regional and Monthly Consumption Trends**
 
 - ![Screenshot 2025-06-28 224009](https://github.com/user-attachments/assets/bc65a4f9-27d3-45be-974a-2e3eaedd086b)
 - ![Screenshot 2025-06-28 224023](https://github.com/user-attachments/assets/cb8a39e5-643a-480f-a32e-0619ed479f63)
 - ![Screenshot 2025-06-28 224037](https://github.com/user-attachments/assets/f3df7cf3-39c9-4592-8337-573f78e6df3a)
 
 
-- ## 📌 Key Insights Summary (2017–2019)
+- ## 📌 Key Insights Summary 
 
 1. The **total profit** of all breweries across all countries from 2017 to 2019 was **$106M**.
 2. **Francophone countries** generated more profit than Anglophone countries over the 3-year period.
@@ -110,8 +107,8 @@ Three Power BI dashboards were created to visualize:
 ---
 
 ## 📂 Project Files  
-- [`SQL Script`](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)  
-- [`Dashboard Slides`](https://github.com/user-attachments/files/20964719/PAUL.ANNA.SQL.VISULAIZATION.DAP.PROJECT.pptx)
+- [`SQL Script`](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)
+- View Power BI report [`here`](https://app.powerbi.com/groups/me/reports/34872d51-ad21-4b28-b570-e17fe9bae225/169eadfcc0d7cd38076d?experience=power-bi)  
 
 
 
