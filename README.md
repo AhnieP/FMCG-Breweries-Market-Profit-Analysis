@@ -71,7 +71,7 @@ Imported the cleaned dataset into MySQL Workbench, performed SQL queries to extr
 ## 📈 Power BI Dashboards  
 The query results exported as CSVs were merged into a single Excel workbook. The workbook was then used in Power BI to develop dashboards that visualized profit trends, brand performance, and regional consumption across countries and years.
 
-- Three Power BI dashboards visualization were created:  
+Three Power BI dashboards visualization were created:  
 
 - ![Screenshot 2025-06-28 224009](https://github.com/user-attachments/assets/bc65a4f9-27d3-45be-974a-2e3eaedd086b)
 - ![Screenshot 2025-06-28 224023](https://github.com/user-attachments/assets/cb8a39e5-643a-480f-a32e-0619ed479f63)
@@ -109,5 +109,11 @@ The query results exported as CSVs were merged into a single Excel workbook. The
 - View Power BI report [`here`](https://app.powerbi.com/groups/me/reports/34872d51-ad21-4b28-b570-e17fe9bae225/169eadfcc0d7cd38076d?experience=power-bi)  
 
 
+## 🙋‍♂️ Author
 
+**Anna Paul**  
+*Data Analyst*  
+📍 Abuja, Nigeria  
+📧 [annapaul668@gmail.com](mailto:annapaul668@gmail.com)  
+📞 +234 8142944324
 
