@@ -16,7 +16,7 @@ The goal is to uncover insights into sales performance, brand preferences, terri
 ## 🛠 Tools Used  
 - **SQL (MySQL Workbench)** – For data querying, transformation, and aggregation  
 - **Power BI** – For data visualization and interactive dashboard reporting  
-- **Microsoft Excel** – For dataset inspection and minor preprocessing
+- **Microsoft Excel** – For dataset inspection and transformation
 
 ---
 
@@ -61,11 +61,7 @@ The dataset contains sales transaction records from multiple West African countr
 ---
 
 ## 💻 SQL Queries  
-The SQL scripts include all analysis logic required to answer the outlined business questions. Queries cover:  
-- Aggregated profit by country, year, and territory  
-- Brand and regional consumption behavior  
-- Sales representative performance  
-- Month-by-month profitability trends
+Imported the cleaned dataset into MySQL Workbench, performed SQL queries to extract meaningful insights by answering key business questions, and exported each result as a CSV file for further analysis and reporting.
 
 *Script written using MySQL syntax.*  
 👉 [View full SQL script in this repo](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)
@@ -73,7 +69,9 @@ The SQL scripts include all analysis logic required to answer the outlined busin
 ---
 
 ## 📈 Power BI Dashboards  
-Three Power BI dashboards were created to visualize:  
+The query results exported as CSVs were merged into a single Excel workbook. The workbook was then used in Power BI to develop dashboards that visualized profit trends, brand performance, and regional consumption across countries and years.
+
+- Three Power BI dashboards visualization were created:  
 
 - ![Screenshot 2025-06-28 224009](https://github.com/user-attachments/assets/bc65a4f9-27d3-45be-974a-2e3eaedd086b)
 - ![Screenshot 2025-06-28 224023](https://github.com/user-attachments/assets/cb8a39e5-643a-480f-a32e-0619ed479f63)
