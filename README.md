@@ -4,7 +4,7 @@ This project explores three years of FMCG sales data across West Africa using SQ
 **SQL + Power BI Data Analytics Project Report**
 
 ## 🧩 Project Overview  
-A comprehensive data analysis for a fictional Fast-Moving Consumer Goods (FMCG) company operating across Anglophone and Francophone West African countries. It investigates key profitability metrics, product consumption trends, and regional preferences over a three-year period to guide strategic decision-making.
+A comprehensive data analysis for a Fast-Moving Consumer Goods (FMCG) company operating across Anglophone and Francophone West African countries. It investigates key profitability metrics, product consumption trends, and regional preferences over a three-year period to guide strategic decision-making.
 
 ## 🎯 Objective  
 The goal is to uncover insights into sales performance, brand preferences, territory-based profitability, and consumption patterns across countries and regions. This analysis helps regional managers and brand leads make data-driven decisions, especially for targeted promotions and profit maximization.
