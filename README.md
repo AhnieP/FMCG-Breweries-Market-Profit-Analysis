@@ -1,9 +1,7 @@
-# International-FMCG-Market-Profit-Analysis (SQL + Power BI)
+# FMCG-Breweries-Market-Profit-Analysis (SQL + Power BI)
 This project explores three years of FMCG sales data across West Africa using SQL and Power BI. It delivers insights on profit trends, top-performing brands, and regional consumer behavior in Anglophone and Francophone markets. The analysis answers 20+ key business questions and supports strategy with interactive dashboards.
 
-# 📊 FMCG Market Profit Analysis
-
-**SQL + Power BI Data Analytics Project**
+**SQL + Power BI Data Analytics Project Report**
 
 ## 🧩 Project Overview  
 A comprehensive data analysis for a fictional Fast-Moving Consumer Goods (FMCG) company operating across Anglophone and Francophone West African countries. It investigates key profitability metrics, product consumption trends, and regional preferences over a three-year period to guide strategic decision-making.
