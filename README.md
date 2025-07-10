@@ -3,22 +3,22 @@ This project explores three years of FMCG sales data across West Africa using SQ
 
 **SQL + Power BI Data Analytics Project Report**
 
-## 🧩 Project Overview  
+## Project Overview  
 A comprehensive data analysis for a Fast-Moving Consumer Goods (FMCG) company operating across Anglophone and Francophone West African countries. It investigates key profitability metrics, product consumption trends, and regional preferences over a three-year period to guide strategic decision-making.
 
-## 🎯 Objective  
+## Objective  
 The goal is to uncover insights into sales performance, brand preferences, territory-based profitability, and consumption patterns across countries and regions. This analysis helps regional managers and brand leads make data-driven decisions, especially for targeted promotions and profit maximization.
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 - **SQL (MySQL Workbench)** – For data querying, transformation, and aggregation  
 - **Power BI** – For data visualization and interactive dashboard reporting  
 - **Microsoft Excel** – For dataset inspection and transformation
 
 ---
 
-## 🗃 Dataset Summary  
+## Dataset Summary  
 The dataset contains sales transaction records from multiple West African countries across three years (2017–2019). Key fields include:  
 - Country & Region  
 - Product Brand  
@@ -28,7 +28,7 @@ The dataset contains sales transaction records from multiple West African countr
 
 ---
 
-## 📌 Key Questions Addressed  
+## Key Questions Addressed  
 ### Profit Analysis  
 1. What is the total profit from all countries over 3 years?  
 2. Profit comparison between Anglophone vs. Francophone territories  
@@ -58,7 +58,7 @@ The dataset contains sales transaction records from multiple West African countr
 
 ---
 
-## 💻 SQL Queries  
+## SQL Queries  
 Imported the cleaned dataset into MySQL Workbench, performed SQL queries to extract meaningful insights by answering key business questions, and exported each result as a CSV file for further analysis and reporting.
 
 *Script written using MySQL syntax.*  
@@ -66,7 +66,7 @@ Imported the cleaned dataset into MySQL Workbench, performed SQL queries to extr
 
 ---
 
-## 📈 Power BI Dashboards  
+## Power BI Dashboards  
 The query results exported as CSVs were merged into a single Excel workbook. The workbook was then used in Power BI to develop dashboards that visualized profit trends, brand performance, and regional consumption across countries and years.
 
 Three Power BI dashboards visualization were created:  
@@ -76,7 +76,7 @@ Three Power BI dashboards visualization were created:
 - ![Screenshot 2025-06-28 224037](https://github.com/user-attachments/assets/f3df7cf3-39c9-4592-8337-573f78e6df3a)
 
 
-- ## 📌 Key Insights Summary 
+- ## Key Insights Summary 
 
 1. The **total profit** of all breweries across all countries from 2017 to 2019 was **$106M**.
 2. **Francophone countries** generated more profit than Anglophone countries over the 3-year period.
@@ -102,12 +102,12 @@ Three Power BI dashboards visualization were created:
 
 ---
 
-## 📂 Project Files  
+## Project Files  
 - [`SQL Script`](https://github.com/AhnieP/International-FMCG-Market-Profit-Analysis/blob/main/PAUL%20ANNA%20SQL%20DAP%20PROJECT%20SCRIPT.sql)
 - View Power BI report [`here`](https://app.powerbi.com/groups/me/reports/34872d51-ad21-4b28-b570-e17fe9bae225/169eadfcc0d7cd38076d?experience=power-bi)  
 
 
-## 🙋‍♂️ Author
+## Author
 
 **Anna Paul**  
 *Data Analyst*  
